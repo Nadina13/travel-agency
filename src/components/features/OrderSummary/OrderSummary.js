@@ -10,7 +10,7 @@ const OrderSummary = props => (
   <h2 className={styles.component}><strong>Total:</strong>{formatPrice(calculateTotal(props.tripCost, props.options))}</h2>
 );
 
-OrderSummary.propTypes ={
+OrderSummary.propTypes = {
   options: PropTypes.object,
   tripCost: PropTypes.string,
 };
