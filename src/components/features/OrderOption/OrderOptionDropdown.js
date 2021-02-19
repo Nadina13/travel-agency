@@ -1,7 +1,7 @@
 import React from 'react';
 
 const OrderOptionDropdown = () => (
-  <div></div>
+  <div>OrderOptionDropdown</div>
 );
 
 export default OrderOptionDropdown;

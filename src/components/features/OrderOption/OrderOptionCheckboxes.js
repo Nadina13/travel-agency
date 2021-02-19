@@ -1,7 +1,7 @@
 import React from 'react';
 
 const OrderOptionCheckboxes = () => (
-  <div></div>
+  <div>OrderOptionCheckboxes</div>
 );
 
 
